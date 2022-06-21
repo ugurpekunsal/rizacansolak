@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "firebase": "^9.6.10"
-  }
+  },
+  "name": "rizacansolak",
+  "description": "rizacansolak",
+  "version": "2.0.0",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugurpekunsal/rizacansolak.git"
+  },
+  "author": "Ugur Pekunsal",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ugurpekunsal/rizacansolak/issues"
+  },
+  "homepage": "https://github.com/ugurpekunsal/rizacansolak#readme"
 }
