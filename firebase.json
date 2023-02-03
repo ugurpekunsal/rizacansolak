@@ -1,6 +1,6 @@
 {
 	"hosting": {
-		"site": "rizacansolakcom",
+		"site": "rizasolak",
 		"public": "/",
 		"ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
 		"rewrites": [
